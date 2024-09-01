@@ -30,6 +30,7 @@ stages:
       - vim
       - netavark
       - neofetch
+      - bash
 
   - name: example-commands # Sample module demonstrating the Shell module with custom commands
     type: shell
