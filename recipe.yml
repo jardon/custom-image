@@ -32,6 +32,7 @@ stages:
       - neofetch
       - bash
       - apt
+      - iptables
 
   - name: example-commands # Sample module demonstrating the Shell module with custom commands
     type: shell
